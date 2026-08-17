@@ -1,0 +1,43 @@
+body{
+font-family: Arial, sans-serif;
+font-size:20px;
+text-align: center;  
+margin: 0;
+padding: 0;
+}
+header{
+background: aqua;
+color: deepPink;
+padding: 30px;
+text-align: center;
+font-size: 30px;
+font-family: algebric;
+margin:0px;
+}
+nav{
+background: purple;
+padding: 20px;
+text-align: center;
+
+}
+nav a{
+margin:0 20px;
+text-decoration: none;
+color: goldenrod;
+font-weight: bold;
+}
+section{
+padding: 10px;
+margin: 10px;
+}
+h2{
+color: red;
+border-bottom: 5px solid blue;
+padding-bottom: 5px;
+}
+footer{
+background:red;
+color: white;
+text-align:center;
+padding: 2px;
+}
